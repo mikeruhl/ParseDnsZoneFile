@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParseDnsZoneFile": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
